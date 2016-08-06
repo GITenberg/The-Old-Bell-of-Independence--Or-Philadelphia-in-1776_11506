@@ -1,0 +1,25 @@
+_repo: The-Old-Bell-of-Independence--Or-Philadelphia-in-1776_11506
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Watson, Henry C. (Henry Clay)
+    birthdate: 1831
+    deathdate: 1869
+    gutenberg_agent_id: '4002'
+    url: http://www.gutenberg.org/2009/agents/4002
+description: ''
+gutenberg_bookshelf: Children's History
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11506'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Revolution, 1775-1783 -- Anecdotes'
+- !lcc 'E201'
+- GITenberg
+title: The Old Bell of Independence; Or, Philadelphia in 1776
+url: http://www.gutenberg.org/ebooks/11506
